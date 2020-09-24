@@ -1,5 +1,5 @@
 # todays-price-gold-and-etc
-this app show you today s prices of gold , dollor , bitcoin ,euro and .. for iranian
+this app show you today s prices of gold , dollar , bitcoin ,euro and .. for iranian
 
 
 for use this script
