@@ -2,13 +2,11 @@
 this app show you today s prices of gold , dollar , bitcoin ,euro and .. for iranian
 
 
-for use this script
+for use this script you nedd :
 
 you need install lwp (arch base) ==>   sudo pacman -S perl-lwp-protocol-https  
-
-
+lwp Default installed on Debian bases
 
 done enjoy it !
-
 
 قیمت هایی که نمایش داده میشود یه ریال است 
