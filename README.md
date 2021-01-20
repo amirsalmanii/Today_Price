@@ -1,4 +1,4 @@
-# todays-price-gold-and-etc
+# Today_Price
 this app show today's price of gold ,dollar ,bitcoin ,euro and ... for iranian
 
 for use this script you need : lwp
