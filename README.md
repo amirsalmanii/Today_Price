@@ -1,8 +1,7 @@
 # todays-price-gold-and-etc
-this app show you today s prices of gold , dollar , bitcoin ,euro and .. for iranian
+this app show today's price of gold ,dollar ,bitcoin ,euro and ... for iranian
 
-for use this script you need :
-
+for use this script you need : lwp
 
 
 arch =>   you need install lwp (arch base) ==>   sudo pacman -S perl-lwp-protocol-https  
@@ -10,7 +9,6 @@ arch =>   you need install lwp (arch base) ==>   sudo pacman -S perl-lwp-protoco
 debian => lwp Default installed on Debian bases or ubuntu
 
 redhat base => ....
-
 
 
 done enjoy it !
